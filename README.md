@@ -66,7 +66,7 @@ The final model achieved a validation accuracy that placed the submission in the
 
 ## Files
 - `train.csv` & `test.csv`: Original data files.
-- `dataset.csv`: Combined dataset after initial preprocessing.
+- `model.py`: Code used.
 - `submission.csv`: Final predictions for the competition.
 
 ## Dependencies
