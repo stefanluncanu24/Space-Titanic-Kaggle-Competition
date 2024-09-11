@@ -1,5 +1,7 @@
 # Space Titanic Kaggle Competition - Top 14%
 
+![image](https://github.com/user-attachments/assets/894548d0-c7c4-4d09-b943-ed5b5e41b34e)
+
 ## Overview
 This project is part of the Space Titanic Kaggle competition, where the challenge was to predict whether passengers on a simulated space voyage would be transported to an alternate dimension. The approach involved extensive data preprocessing, feature engineering, and optimizing with GridSearchCV a machine learning model using XGBoost.
 
@@ -79,4 +81,3 @@ The final model achieved a validation accuracy that placed the submission in the
 ## Acknowledgements
 Thanks to Kaggle for hosting this engaging competition and to all who have shared helpful kernels and discussions that contributed to the development of this project.
 
-![image](https://github.com/user-attachments/assets/894548d0-c7c4-4d09-b943-ed5b5e41b34e)
